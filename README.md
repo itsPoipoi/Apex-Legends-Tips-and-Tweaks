@@ -2,6 +2,9 @@
 
 AUTOEXEC REGROUPS AND EXPLAINS A BUNCH OF THIS STUFF, SO YOU MIGHT WANT TO LOOK AT THAT FIRST.
 
+I figured out a lot of this by digging through files extracted from the game by Syampuuh. Credit & Thanks to her for that!
+Source: https://github.com/Syampuuh/TitanfallApexLegends
+
 TWEAKS:
 
 Toggle Bind: https://www.reddit.com/r/CompetitiveApex/comments/fdg55t/how_to_create_toggle_binds_in_apex_after_patch/
