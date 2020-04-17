@@ -19,7 +19,7 @@ Grenade Specific Binds & Setting Grenade Equip Priorities: https://www.reddit.co
 
 Zooming-in With Any Sight in Apex Legends (On-The-Fly FOV Changer): https://www.reddit.com/r/CompetitiveApex/comments/fdg748/zoomingin_with_any_sight_in_apex_legends_onthefly/
 
-Modifier-Key Binding Script for Meds Usage in Apex: https://www.reddit.com/r/CompetitiveApex/comments/fdwuqs/modifierkey_binding_script_for_meds_usage_in_apex/
+Modifier-Key Binding Script for Meds Usage in Apex: https://www.reddit.com/r/CompetitiveApex/comments/g2ewmc/modifierkey_binding_script_for_meds_usage/
 
 Headache Folder: Too hard to explain everything in detail, and maybe to understand too. It took me hours to figure out this one script, hence the name. It's used to automatically equip & transfer your HCOG when swapping weapons, and to toggle automatically equipping & transfering your Digital Threat when swapping weapons. It's pretty ridiculous...
 https://www.youtube.com/watch?v=zRmhSEJLyrY
