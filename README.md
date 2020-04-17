@@ -20,6 +20,9 @@ Zooming-in With Any Sight in Apex Legends (On-The-Fly FOV Changer): https://www.
 
 Modifier-Key Binding Script for Meds Usage in Apex: https://www.reddit.com/r/CompetitiveApex/comments/g2ewmc/modifierkey_binding_script_for_meds_usage/
 
+Apply Weapon Cosmetics with a Keybind:
+https://www.reddit.com/r/CompetitiveApex/comments/g38ep4/apply_weapon_cosmetics_with_a_keybind_skin_charm/
+
 Headache Folder: Too hard to explain everything in detail, and maybe to understand too. It took me hours to figure out this one script, hence the name. It's used to automatically equip & transfer your HCOG when swapping weapons, and to toggle automatically equipping & transfering your Digital Threat when swapping weapons. It's pretty ridiculous...
 https://www.youtube.com/watch?v=zRmhSEJLyrY
 
