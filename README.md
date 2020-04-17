@@ -18,7 +18,7 @@ Grenade Specific Binds & Setting Grenade Equip Priorities: https://www.reddit.co
 
 Zooming-in With Any Sight in Apex Legends (On-The-Fly FOV Changer): https://www.reddit.com/r/CompetitiveApex/comments/fdg748/zoomingin_with_any_sight_in_apex_legends_onthefly/
 
-Modifier-Key Binding Script for Meds Usage in Apex: https://www.reddit.com/r/CompetitiveApex/comments/g2ewmc/modifierkey_binding_script_for_meds_usage/
+Modifier-Key Binding Script for Meds Usage in Apex: https://github.com/itsPoipoi/Apex-Legends-Tips-and-Tweaks/blob/master/Meds%20Usage%20README
 
 Apply Weapon Cosmetics with a Keybind:
 https://www.reddit.com/r/CompetitiveApex/comments/g38ep4/apply_weapon_cosmetics_with_a_keybind_skin_charm/
