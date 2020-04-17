@@ -1,0 +1,53 @@
+//THIS KEEPS GETTING FLAGGED AS SPAM BY REDDIT BOTS FOR SOME REASON SO HERE IT IS.
+
+Using this script, you can create modifier keys that will rebind any key of your choosing for fast & easy to reach binds, like using meds.
+
+The modifier cannot be made to only be active when held down (Unless you use a macro). It will toggle on and off each time you press the key, or toggle off as soon as you use it to take out a healing item (or execute a command with it).
+
+Setup:
+
+Create 2 different cfg files in the cfg folder of your game. One should be "modkey.cfg" and the other should be "defkey.cfg"
+
+The first one will contain all binds available when pressing your modifier key (Left Alt by default), and the second one will contain all your already existing binds for the keys modified by the "modkey.cfg".
+
+modkey.cfg:
+
+bind q "use_consumable HEALTH_LARGE; exec defkey"
+
+bind e "use_consumable SHIELD_LARGE; exec defkey"
+
+bind 1 "use_consumable PHOENIX_KIT; exec defkey"
+
+bind mouse4 "use consumable HEALTH_SMALL; exec defkey"
+
+bind mouse5 "use_consumable SHIELD_SMALL; exec defkey"
+
+bind LALT "exec defkey"
+
+defkey.cfg:
+
+bind q "+weaponcycle"
+
+bind_US_standard "e" "+use; +use_long" 0
+
+bind 1 "weaponSelectPrimary0"
+
+bind mouse4 "+offhand1"
+
+bind mouse5 "+pushtotalk"
+
+bind LALT "exec modkey"
+
+(Change any key/action as you please, and feel free to ask me for help with that)
+
+In your autoexec.cfg:
+
+bind LALT "exec modkey"
+
+How it works:
+
+Pressing Left Alt (or the modifier key of your choosing) will rebind the 5 keys specified in this script to a different function. Pressing Left Alt a second time will rebind them to their previous actions.
+
+Pressing Left Alt the first time, and then pressing any of the 5 specified keys will take out a specific healing item, and then rebind the keys to their previous actions.
+
+If you want to, you can remove "exec defkey" from the first 5 binds in "modkey.cfg" to have the binds change back and forth ONLY when you press your modifier key yourself. Alternatively, you can remove the "bind "LALT"" lines in the custom cfgs to have LALT only toggle on but not off, and using an item to toggle off.
