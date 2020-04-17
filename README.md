@@ -2,8 +2,7 @@
 
 AUTOEXEC REGROUPS AND EXPLAINS A BUNCH OF THIS STUFF, SO YOU MIGHT WANT TO LOOK AT THAT FIRST.
 
-I figured out a lot of this by digging through files extracted from the game by Syampuuh. Credit & Thanks to her for that!
-Source: https://github.com/Syampuuh/TitanfallApexLegends
+I figured out a lot of this by digging through files extracted from the game.
 
 TWEAKS:
 
