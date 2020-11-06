@@ -1,5 +1,7 @@
 # Apex-Legends-Tips-and-Tweaks
 
+!DISCLAIMER! MOST OF THESE HAVE BEEN PATCHED WITH S7 RELEASE AND WON'T HAVE ANY EFFECT IN GAME. !DISCLAIMER!
+
 AUTOEXEC REGROUPS AND EXPLAINS A BUNCH OF THIS STUFF, SO YOU MIGHT WANT TO LOOK AT THAT FIRST.
 
 I figured out a lot of this by digging through files extracted from the game.
